@@ -1,0 +1,20 @@
+.w1{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.w2{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: auto;
+}
+
+
+.w3{
+    border: 1px solid black;
+    width: 80px;
+}
